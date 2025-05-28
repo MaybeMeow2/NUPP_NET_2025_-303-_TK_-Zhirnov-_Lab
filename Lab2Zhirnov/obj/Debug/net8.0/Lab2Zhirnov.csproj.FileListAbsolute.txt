@@ -1,0 +1,15 @@
+C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Lab2Zhirnov\Lab2Zhirnov\obj\Debug\net8.0\Lab2Zhirnov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Lab2Zhirnov\Lab2Zhirnov\obj\Debug\net8.0\Lab2Zhirnov.AssemblyInfoInputs.cache
+C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Lab2Zhirnov\Lab2Zhirnov\obj\Debug\net8.0\Lab2Zhirnov.AssemblyInfo.cs
+C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Lab2Zhirnov\Lab2Zhirnov\obj\Debug\net8.0\Lab2Zhirnov.csproj.CoreCompileInputs.cache
+C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Lab2Zhirnov\Lab2Zhirnov\obj\Debug\net8.0\Lab2Zhirnov.sourcelink.json
+C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Lab2Zhirnov\Lab2Zhirnov\bin\Debug\net8.0\Lab2Zhirnov.exe
+C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Lab2Zhirnov\Lab2Zhirnov\bin\Debug\net8.0\Lab2Zhirnov.deps.json
+C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Lab2Zhirnov\Lab2Zhirnov\bin\Debug\net8.0\Lab2Zhirnov.runtimeconfig.json
+C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Lab2Zhirnov\Lab2Zhirnov\bin\Debug\net8.0\Lab2Zhirnov.dll
+C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Lab2Zhirnov\Lab2Zhirnov\bin\Debug\net8.0\Lab2Zhirnov.pdb
+C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Lab2Zhirnov\Lab2Zhirnov\obj\Debug\net8.0\Lab2Zhirnov.dll
+C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Lab2Zhirnov\Lab2Zhirnov\obj\Debug\net8.0\refint\Lab2Zhirnov.dll
+C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Lab2Zhirnov\Lab2Zhirnov\obj\Debug\net8.0\Lab2Zhirnov.pdb
+C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Lab2Zhirnov\Lab2Zhirnov\obj\Debug\net8.0\Lab2Zhirnov.genruntimeconfig.cache
+C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Lab2Zhirnov\Lab2Zhirnov\obj\Debug\net8.0\ref\Lab2Zhirnov.dll
