@@ -1,6 +1,0 @@
-C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Kotiki\Kotiki.Common\bin\Debug\Kotiki.Common.dll
-C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Kotiki\Kotiki.Common\bin\Debug\Kotiki.Common.pdb
-C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Kotiki\Kotiki.Common\obj\Debug\Kotiki.Common.csproj.AssemblyReference.cache
-C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Kotiki\Kotiki.Common\obj\Debug\Kotiki.Common.csproj.CoreCompileInputs.cache
-C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Kotiki\Kotiki.Common\obj\Debug\Kotiki.Common.dll
-C:\Users\olecs\Desktop\NET\NUPP_NET_2025_-303-_TK_-Zhirnov-_Lab\Kotiki\Kotiki.Common\obj\Debug\Kotiki.Common.pdb
