@@ -26,7 +26,7 @@ class Program
 
         await service.SaveAsync();
 
-        // Sync primitives
+
         object lockObj = new();
         Semaphore semaphore = new(1, 1);
         AutoResetEvent autoReset = new(false);
